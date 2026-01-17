@@ -139,3 +139,4 @@ Thumbs.db
 # Vite
 dist-ssr
 *.local
+.vite/
