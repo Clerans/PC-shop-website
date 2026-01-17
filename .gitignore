@@ -125,6 +125,7 @@ dist
 .DS_Store
 *.sublime-workspace
 *.sublime-project
+.Vite/deps/
 
 # OS generated files
 .DS_Store
